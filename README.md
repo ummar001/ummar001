@@ -38,7 +38,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ummar001)](https://github.com/ummar001/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ummar001&show_icons=true&theme=transparent)
 <br>
 <p align=center>
   <div align=center>
