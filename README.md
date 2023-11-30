@@ -72,7 +72,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/ummar001/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummar001&size_weight=0.5&count_weight=0.5&border_color=61dafb" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummar001&size_weight=0.5&count_weight=0.5&theme=react&border=61dafb&hide_border=true" />
     </a>
  
     
