@@ -71,8 +71,8 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummar001&size_weight=0.5&count_weight=0.5" />
+    <a href="https://github.com/ummar001/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummar001&size_weight=0.5&count_weight=0.5&border_color=61dafb" />
     </a>
  
     
@@ -86,6 +86,7 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
+
 
 <br/><br/><br/><br/><br/><br/>
 
