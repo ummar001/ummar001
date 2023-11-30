@@ -87,7 +87,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ummar001&exclude_repo=github-readme-stats,ummar001.github.io)
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
