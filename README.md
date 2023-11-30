@@ -6,6 +6,8 @@
 <!-- <h1 align="center">Hi 👋, I'm Ummar001</h1> -->
 <h3 align="center" style="color: #61dafb;">A passionate JNR FullStack Developer from the United Kingdom</h3>
 
+<iframe src="https://giphy.com/embed/DLz5I4BGyRSOlbSC3o" width="398" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-software-programming-DLz5I4BGyRSOlbSC3o">via GIPHY</a></p>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
@@ -13,7 +15,6 @@
 
 <p align="left"> <a href="https://twitter.com/ummar01?t=_clniavqjbpi-pz1r6i4ha&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/ummar01?t=_clniavqjbpi-pz1r6i4ha&s=09?logo=twitter&style=for-the-badge" alt="ummar01?t=_clniavqjbpi-pz1r6i4ha&s=09" /></a> </p>
 
-<div style="width:100%;height:0;padding-bottom:121%;position:relative;"><iframe src="https://giphy.com/embed/DLz5I4BGyRSOlbSC3o" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/code-software-programming-DLz5I4BGyRSOlbSC3o">via GIPHY</a></p>
 
 - 🔭 I’m currently working on [a Weather App](https://github.com/ummar001/test_weather_project.git)
 
