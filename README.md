@@ -19,9 +19,9 @@
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
-- 👯 I’m looking to collaborate on **on any project tcreative writing, language generation, or any innovative use of AI in different domains.hat can**
+- 👯 I’m looking to collaborate on **on any project with creative writing, language generation, or any innovative use of AI in different domains.hat can**
 
-- 👀 I'm interested in **the vast world of languages , constantly exploring how to improve and adapt it.**
+- 👀 I'm interested in **the vast world of languages, constantly exploring how to improve and adapt it.**
 
 - 💬 Ask me about **Logistic technology**
 
