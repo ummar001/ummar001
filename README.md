@@ -1,5 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
-<h1 align="center">Hi 👋, I'm Ummar001</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ummar+....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ummar001</h1> -->
 <h3 align="center">A passionate  JNR fullStack developer from United Kingdom</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
