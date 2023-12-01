@@ -66,7 +66,7 @@
      <a href="https://github.com/ummar001/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ummar001&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-    </a>
+    </a> 
     <a href="https://github.com/ummar001/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=ummar001&theme=react&border=61dafb&hide_border=true" alt="ummar001" />
     </a>
@@ -76,14 +76,12 @@
     <a href="https://github.com/ummar001/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummar001&size_weight=0.5&count_weight=0.5&theme=react&border=61dafb&hide_border=true" />
     </a>
- 
-    
+     
   </div>
   <br>
 
-
-</p>
-
+  </p>
+ 
 <hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
