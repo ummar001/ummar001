@@ -4,7 +4,7 @@
   </a>
 </h1>
 <!-- <h1 align="center">Hi 👋, I'm Ummar001</h1> -->
-<h3 align="center" style="color: #61dafb;">A passionate JNR FullStack Developer from the United Kingdom</h3>
+<h3 align="center" style="color: #61dafb;">A passionate JNR  Developer from the United Kingdom</h3>
 
 
 
